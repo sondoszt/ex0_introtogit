@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: meat
+Favorite musician/band: miley cyrus
+Favorite movie: hareem el sultan
+Requested grade in the course: 80
